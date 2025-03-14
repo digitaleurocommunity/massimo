@@ -19,7 +19,7 @@ The Digital Euro (ED) was created in 2024 by a team of European innovators, econ
 
 ### For Users
 1. **Download ED Wallet**: Get the official wallet to store, send, and receive ED tokens.  
-   [Download Now](https://www.digitaleuro.io/wallet)
+   [Download Now](https://metamask.io/)
 2. **Buy ED Tokens**: Purchase ED on supported exchanges (coming soon).
 3. **Start Using ED**: Make payments, invest, or stake your tokens to earn rewards.
 
