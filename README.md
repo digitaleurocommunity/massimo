@@ -1,6 +1,6 @@
 # Digital Euro (ED) – The Future of Finance
 
-![Digital Euro Logo](https://via.placeholder.com/150) <!-- Замініть це посилання на реальний URL вашого логотипу -->
+![Digital Euro Logo](https://i.imgur.com/z4URDE0.jpeg) <!-- https://i.imgur.com/z4URDE0.jpeg -->
 
 Welcome to **Digital Euro (ED)** – an innovative cryptocurrency token designed to bring stability, security, and efficiency to the global digital economy. Built on the Ethereum blockchain, ED combines the reliability of the European financial system with the advantages of decentralization, making it ideal for payments, investments, and asset storage.
 
